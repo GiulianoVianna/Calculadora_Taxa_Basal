@@ -2,4 +2,4 @@
 
 Aplicação desenvolvida em Python e QT5.
 
-![image](https://user-images.githubusercontent.com/101942554/187096709-975785a1-b957-4137-a431-6b4e290e97e9.png)
+![image](https://user-images.githubusercontent.com/101942554/187823233-52e1b1c1-1e41-4cfe-a0f0-9e2b7f6d903a.png)
