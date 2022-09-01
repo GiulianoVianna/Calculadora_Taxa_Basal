@@ -1,6 +1,6 @@
 # Calculadora de Taxa Basal - Maromba do Agreste.
 
-# Em desenvolvimento.
+# Finalizado.
 
 Aplicação desenvolvida em Python e QT5.
 
