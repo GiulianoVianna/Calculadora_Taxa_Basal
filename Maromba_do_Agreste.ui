@@ -25,14 +25,17 @@
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>90</x>
+     <x>70</x>
      <y>40</y>
-     <width>251</width>
-     <height>17</height>
+     <width>291</width>
+     <height>20</height>
     </rect>
    </property>
    <property name="text">
-    <string>Calduladora de Taxa Matabólica Basal</string>
+    <string>Calculadora de Taxa Metabólica Basal</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignCenter</set>
    </property>
   </widget>
   <widget class="QLabel" name="label_2">
@@ -228,6 +231,9 @@
      <width>83</width>
      <height>25</height>
     </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgb(0, 170, 0);</string>
    </property>
    <property name="text">
     <string>Calcular</string>

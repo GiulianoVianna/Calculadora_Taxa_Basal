@@ -16,6 +16,7 @@ ext_ativo  = 1.9
 
 def msg_ind_atividade():
     msg1 = QMessageBox()
+    msg1.setIcon(QMessageBox.Critical)
     msg1.setWindowTitle('Atenção')
     msg1.setText('Favor o nível de atividade!')
     x = msg1.exec_()
@@ -23,6 +24,7 @@ def msg_ind_atividade():
 
 def msg_peso():
     msg1 = QMessageBox()
+    msg1.setIcon(QMessageBox.Critical)
     msg1.setWindowTitle('Atenção')
     msg1.setText('Favor informar o peso!')
     x = msg1.exec_()
@@ -30,6 +32,7 @@ def msg_peso():
 
 def msg_altura():
     msg1 = QMessageBox()
+    msg1.setIcon(QMessageBox.Critical)
     msg1.setWindowTitle('Atenção')
     msg1.setText('Favor informar a altura!')
     x = msg1.exec_()
@@ -37,6 +40,7 @@ def msg_altura():
 
 def msg_idade():
     msg1 = QMessageBox()
+    msg1.setIcon(QMessageBox.Critical)
     msg1.setWindowTitle('Atenção')
     msg1.setText('Favor informar a idade!')
     x = msg1.exec_()
