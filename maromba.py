@@ -1,5 +1,3 @@
-
-from os import nice
 from PyQt5 import uic, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
 
